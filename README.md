@@ -1,4 +1,4 @@
-### GAME Rock Paper Scissors
+### GAME Rock Scissors Paper 
 Игра "Камень Ножницы Бумага" написана на языке RUBY.<br />
 Консольная игра, с тремя вариантами выбора.
 
